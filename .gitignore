@@ -7,3 +7,5 @@ Script_Data/Setup/User/
 simcache/
 slprj/
 *.slxc
+*.asv
+*.original
